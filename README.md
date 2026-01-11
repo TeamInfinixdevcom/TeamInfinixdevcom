@@ -199,6 +199,10 @@ const infinixDev = {
 
 <div align="center">
 
+<td width="50%" valign="top">
+
+<div align="center">
+
 ### 🔥 [Kolbi Monitor Web](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -207,7 +211,13 @@ const infinixDev = {
 
 </div>
 
-**Real-time inventory and sales management** system for Kolbi teams with instant notifications and comprehensive reporting.
+**Real-time inventory and sales management** system for Kolbi teams with instant notifications and comprehensive reporting. 
+
+<div align="center">
+
+![Kolbi Monitor Dashboard](https://i.imgur.com/f7IpieR.png)
+
+</div>
 
 **Key Features:**
 - ⚡ Real-time Firebase sync
@@ -216,8 +226,47 @@ const infinixDev = {
 - 📊 Live dashboards with Chart.js
 - 📄 PDF & Excel report generation
 - 🔔 Push notifications
+- 📱 Responsive design for mobile and desktop
+- 🎯 Request workflow system
+- 📈 Advanced metrics and analytics
 
-**Impact:** 70% faster request processing • Multi-location support
+**Impact:** 70% faster request processing • Multi-location support • Real-time inventory visibility
+
+<details>
+<summary>📸 <strong>View More Screenshots</strong></summary>
+
+<br/>
+
+<div align="center">
+
+**Login & Home Interface**
+![Home](https://i.imgur.com/eaYlQXi.png)
+
+<br/><br/>
+
+**Advanced Metrics Dashboard**
+![Metrics](https://i.imgur.com/m1HF1KX.png)
+
+<br/><br/>
+
+**Request Management System**
+![Requests](https://i.imgur.com/YOQqsgy.png)
+
+<br/><br/>
+
+**Inventory Control**
+![Inventory](https://i.imgur.com/EuC4s0K.png)
+
+<br/><br/>
+
+**System Overview & Features**
+![Overview](https://i.imgur.com/YOQk8EY.png)
+
+</div>
+
+<br/>
+
+</details>
 
 <div align="center">
 
@@ -226,9 +275,6 @@ const infinixDev = {
 </div>
 
 </td>
-<td width="50%" valign="top">
-
-<div align="center">
 
 ### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
