@@ -230,6 +230,10 @@ const infinixDev = {
 
 <div align="center">
 
+<td width="50%" valign="top">
+
+<div align="center">
+
 ### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -238,7 +242,13 @@ const infinixDev = {
 
 </div>
 
-**CRM system for ICE sales executives** with extreme cost optimization achieving 99.1% infrastructure savings.
+**CRM system for ICE sales executives** with extreme cost optimization achieving 99.1% infrastructure savings. 
+
+<div align="center">
+
+![Performance Executive Dashboard](https://i.imgur.com/EiEX3KY.png)
+
+</div>
 
 **Key Features:**
 - 💰 Intelligent caching system
@@ -246,9 +256,49 @@ const infinixDev = {
 - 🎯 Sales projections & goals
 - 👨‍💼 Admin supervision panel
 - ⚡ Anti-duplication intervals
-- 📊 Performance analytics
+- 📊 Performance analytics with visual charts
+- 👥 Customer segmentation (Platinum, Gold, Silver, Bronze, Black)
+- 📈 Real-time metrics dashboard
+- 📤 Excel export functionality
+- 🔔 Notifications system
 
-**Impact:** 99.1% cost reduction • 50-100 concurrent users on free tier
+**Impact:** 99.1% cost reduction • 50-100 concurrent users on free tier • 95% query optimization
+
+<details>
+<summary>📸 <strong>View More Screenshots</strong></summary>
+
+<br/>
+
+<div align="center">
+
+**Dashboard Analytics & Metrics**
+![Dashboard](https://i.imgur.com/1AZZ0FZ. png)
+
+<br/><br/>
+
+**Customer Management Interface**
+![Customers](https://i.imgur.com/J8lCpzQ.png)
+
+<br/><br/>
+
+**Sales Tracking & Reports**
+![Sales](https://i.imgur.com/0radxMK.png)
+
+<br/><br/>
+
+**Advanced Features**
+![Features 1](https://i.imgur.com/2XNWQxZ.png)
+
+<br/><br/>
+
+**System Overview**
+![Features 2](https://i.imgur.com/T89ldnn. png)
+
+</div>
+
+<br/>
+
+</details>
 
 <div align="center">
 
@@ -257,22 +307,6 @@ const infinixDev = {
 </div>
 
 </td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 📱 Commercial Tools & Utilities
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
 
 ### 📞 [Sim-K Managers](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
 
