@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Infinix%20Dev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Solutions%20that%20Transform&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Infinix%20Dev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Solutions%20that%20Transform&descAlignY=55&descSize=18)
 
 <br/>
 
@@ -35,7 +35,7 @@
 <tr>
 <td width="60%">
 
-**Infinix Dev** is a Costa Rican web development venture 🇨🇷 specializing in **enterprise-grade digital solutions** with a unique competitive advantage: **maximum functionality at minimum infrastructure cost**. 
+**Infinix Dev** is a Costa Rican web development venture 🇨🇷 specializing in **enterprise-grade digital solutions** with a unique competitive advantage:  **maximum functionality at minimum infrastructure cost**. 
 
 We architect and build full-stack applications that solve real business challenges through:  
 
@@ -80,7 +80,7 @@ const infinixDev = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
@@ -95,7 +95,7 @@ const infinixDev = {
 ### Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28? style=for-the-badge&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Tools & DevOps
@@ -135,7 +135,7 @@ const infinixDev = {
 
 </div>
 
-**Human Resources Management System** with enterprise-level security, role-based access control, and complete employee lifecycle management. 
+**Human Resources Management System** with enterprise-level security, role-based access control, and complete employee lifecycle management.
 
 **Key Features:**
 - 🔐 Secure authentication with bcrypt
@@ -195,10 +195,6 @@ const infinixDev = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
 <td width="50%" valign="top">
 
 <div align="center">
@@ -275,6 +271,9 @@ const infinixDev = {
 </div>
 
 </td>
+<td width="50%" valign="top">
+
+<div align="center">
 
 ### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
@@ -284,7 +283,7 @@ const infinixDev = {
 
 </div>
 
-**CRM system for ICE sales executives** with extreme cost optimization achieving 99.1% infrastructure savings.  
+**CRM system for ICE sales executives** with extreme cost optimization achieving 99.1% infrastructure savings.
 
 <div align="center">
 
@@ -485,7 +484,7 @@ Lightweight productivity tool for Kolbi promoters.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26? style=flat-square&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </div>
 
@@ -614,7 +613,7 @@ Frontend • Backend • Database • Deployment • Maintenance
 
 <br/>
 
-![React](https://img.shields.io/badge/-React-61DAFB? style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -672,9 +671,9 @@ Audit • Strategy • Implementation • Monitoring • Support
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TeamInfinixdevcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api? username=TeamInfinixdevcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamInfinixdevcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel. app/api/top-langs/? username=TeamInfinixdevcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
 
 <br/><br/>
 
@@ -837,7 +836,7 @@ Fast iterations with continuous improvement
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer)
 
 <br/>
 
@@ -852,6 +851,6 @@ Fast iterations with continuous improvement
 
 ⭐️ **From** [Costa Rica](https://www.google.com/maps/place/Costa+Rica) **with love** 🇨🇷
 
-<sub>© 2024 Infinix Dev. All rights reserved. </sub>
+<sub>© 2024 Infinix Dev. All rights reserved.</sub>
 
 </div>
