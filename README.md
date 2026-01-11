@@ -1,114 +1,811 @@
-# Kolbi Monitor Web
+<div align="center">
 
-Aplicación web para monitoreo, métricas y gestión operativa del sistema **Kolbi Monitor**.
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Infinix%20Dev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Solutions%20that%20Transform&descAlignY=55&descSize=18)
 
-## Funcionalidades
+<br/>
 
-- Dashboard / inicio con resumen general
-- Gráficas y tendencias
-- Métricas avanzadas
-- Manejo de solicitudes
-- Inventario
+### 🚀 Full Stack Development  •  ☁️ Cloud Architecture  •  💎 Cost Optimization
 
----
+<br/>
 
-## Capturas (Monitor Web)
+<p align="center">
+  <a href="mailto:teaminfinixdev@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-teaminfinixdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/TeamInfinixdevcom">
+    <img src="https://img.shields.io/badge/💻_GitHub-TeamInfinixdevcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-> Nota: para que GitHub muestre las imágenes, se usan links directos `i.imgur.com`.
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Location-Costa_Rica_🇨🇷-00A0DC?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/🟢_Status-Available_for_Projects-00D084?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/🕐_Timezone-UTC--6-5865F2?style=for-the-badge" alt="Timezone"/>
+</p>
 
-### Inicio
-![Inicio](https://i.imgur.com/eaYlQXi.png)
-
-### Gráficas
-![Gráficas](https://i.imgur.com/f7IpieR.png)
-
-### Métricas avanzadas
-![Métricas avanzadas](https://i.imgur.com/m1HF1KX.png)
-
-### Manejo de solicitudes
-![Manejo de solicitudes](https://i.imgur.com/YOQqsgy.png)
-
-### Inventario
-![Inventario](https://i.imgur.com/EuC4s0K.png)
-
-### Presentación
-![Presentación](https://i.imgur.com/YOQk8EY.png)
+</div>
 
 ---
 
-## Requisitos
+<br/>
 
-- Node.js (recomendado: LTS)
-- npm
-- Proyecto configurado en Firebase (Auth/Firestore/Hosting según aplique)
+## 🌟 About Infinix Dev
+
+<table>
+<tr>
+<td width="60%">
+
+**Infinix Dev** is a Costa Rican web development venture 🇨🇷 specializing in **enterprise-grade digital solutions** with a unique competitive advantage: **maximum functionality at minimum infrastructure cost**. 
+
+We architect and build full-stack applications that solve real business challenges through:  
+
+- ⚡ **High Performance** — Optimized for speed and efficiency
+- 🔐 **Enterprise Security** — Best practices from design to deployment  
+- 💰 **Cost Intelligence** — Proven 99.1% savings on infrastructure
+- 📈 **Scalable Architecture** — Built to grow with your business
+- 🎯 **Problem-First Approach** — Understanding before implementing
+
+</td>
+<td width="40%">
+
+```javascript
+const infinixDev = {
+  location: "🇨🇷 Costa Rica",
+  timezone: "UTC-6",
+  experience: "10+ projects",
+  specialization: [
+    "Full Stack",
+    "Cloud Optimization",
+    "Real-time Systems",
+    "Enterprise Apps"
+  ],
+  achievement: "99.1% cost savings"
+};
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## Instalación y ejecución
+## 🛠️ Technology Stack
 
-Instalar dependencias:
+<div align="center">
 
-```bash
-npm install
-```
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-Ejecutar en desarrollo:
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-```bash
-npm start
-```
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-Compilar para producción:
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-```bash
-npm run build
-```
+</div>
 
-Tests (si están configurados):
-
-```bash
-npm test
-```
-
----
-
-## Variables de entorno
-
-Crea un archivo `.env` (no se sube al repositorio) para credenciales/URLs del proyecto.
-
-Ejemplo (ajusta según tu configuración):
-
-```bash
-REACT_APP_FIREBASE_API_KEY=...
-REACT_APP_FIREBASE_AUTH_DOMAIN=...
-REACT_APP_FIREBASE_PROJECT_ID=...
-```
+<br/>
 
 ---
 
-## Asignar permisos de admin en Firebase (Custom Claims)
+## 🏆 Featured Projects
 
-Para que un usuario pueda cargar inventario u operar funciones restringidas, debe tener el claim `admin` en **Firebase Auth**.
+<br/>
 
-### Uso
+<div align="center">
 
-1. Obtén el UID del usuario en Firebase Console → Authentication.
-2. Descarga la **Service Account Key** desde Firebase Console → Project Settings → Service accounts.
-3. Ejecuta:
+### 💼 Enterprise Systems
 
-```bash
-node scripts/cambiodeposicionaADMIN.js <ruta_al_serviceAccountKey.json> <UID_DEL_USUARIO>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏢 [InfiniHR Web](https://github.com/TeamInfinixdevcom/infinihr-web)
+
+![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+**Human Resources Management System** with enterprise-level security, role-based access control, and complete employee lifecycle management. 
+
+**Key Features:**
+- 🔐 Secure authentication with bcrypt
+- 📊 Vacation & leave management
+- 👥 Employee & department administration
+- 📈 Reporting and analytics
+- ⚡ RESTful API architecture
+
+**Impact:** Enterprise-grade scalability • Corporate security standards
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-0066FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/infinihr-web)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ☕ [InfiniHR Backend](https://github.com/TeamInfinixdevcom/InfiniHR)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![API](https://img.shields.io/badge/REST_API-00D084?style=flat-square)
+
+</div>
+
+**Backend core** for HR system built with Java, handling business logic, data processing, and API endpoints.
+
+**Key Features:**
+- ☕ Pure Java implementation
+- 🔄 Microservice architecture
+- 📡 RESTful API design
+- 🔧 Business logic layer
+- 💾 Data processing engine
+
+**Impact:** Robust backend • Scalable architecture
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-ED8B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/InfiniHR)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📊 Sales & CRM Solutions
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🔥 [Kolbi Monitor Web](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</div>
+
+**Real-time inventory and sales management** system for Kolbi teams with instant notifications and comprehensive reporting.
+
+**Key Features:**
+- ⚡ Real-time Firebase sync
+- 👥 Role-based authentication (Admin/Supervisor/Promotor)
+- 📦 Inventory tracking & management
+- 📊 Live dashboards with Chart.js
+- 📄 PDF & Excel report generation
+- 🔔 Push notifications
+
+**Impact:** 70% faster request processing • Multi-location support
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</div>
+
+**CRM system for ICE sales executives** with extreme cost optimization achieving 99.1% infrastructure savings.  
+
+<div align="center">
+
+![Performance Executive Dashboard](https://i.imgur.com/EiEX3KY.png)
+
+</div>
+
+**Key Features:**
+- 💰 Intelligent caching system
+- 📉 Query limit management
+- 🎯 Sales projections & goals
+- 👨‍💼 Admin supervision panel
+- ⚡ Anti-duplication intervals
+- 📊 Performance analytics with visual charts
+- 👥 Customer segmentation (Platinum, Gold, Silver, Bronze, Black)
+- 📈 Real-time metrics dashboard
+- 📤 Excel export functionality
+- 🔔 Notifications system
+
+**Impact:** 99.1% cost reduction • 50-100 concurrent users on free tier • 95% query optimization
+
+<details>
+<summary>📸 <strong>View More Screenshots</strong></summary>
+
+<br/>
+
+<div align="center">
+
+**Dashboard Analytics & Metrics**
+![Dashboard](https://i.imgur.com/1AZZ0FZ.png)
+
+<br/><br/>
+
+**Customer Management Interface**
+![Customers](https://i.imgur.com/J8lCpzQ.png)
+
+<br/><br/>
+
+**Sales Tracking & Reports**
+![Sales](https://i.imgur.com/0radxMK.png)
+
+<br/><br/>
+
+**Advanced Features**
+![Features 1](https://i.imgur.com/2XNWQxZ.png)
+
+<br/><br/>
+
+**System Overview**
+![Features 2](https://i.imgur.com/T89ldnn.png)
+
+</div>
+
+<br/>
+
+</details>
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 📱 Commercial Tools & Utilities
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 📞 [Sim-K Managers](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
+
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E? style=flat-square&logo=javascript&logoColor=black)
+![Batch](https://img.shields.io/badge/Batch-4EAA25?style=flat-square)
+
+</div>
+
+SIM card management and inventory tracking system.  
+
+**Stack:** JavaScript • HTML • Batch  
+**Type:** Desktop application  
+**Focus:** Automation & tracking
+
+<div align="center">
+
+[![View](https://img.shields.io/badge/View-333? style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🔍 [EXTRACTOR SIM](https://github.com/TeamInfinixdevcom/EXTRACTORSIM)
+
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</div>
+
+Data extraction tool for SIM card information processing.
+
+**Stack:** JavaScript • HTML • CSS  
+**Type:** Web-based tool  
+**Focus:** Automated extraction
+
+<div align="center">
+
+[![View](https://img.shields.io/badge/View-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EXTRACTORSIM)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 🚀 [Launcher Manager](https://github.com/TeamInfinixdevcom/LAUNCHER-PROMOTER-MANAGER-FOR-KOLBI)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/localStorage-FFA500?style=flat-square)
+
+</div>
+
+Lightweight productivity tool for Kolbi promoters.  
+
+**Stack:** HTML • JavaScript  
+**Features:** WhatsApp templates  
+**Design:** No backend required
+
+<div align="center">
+
+[![View](https://img.shields.io/badge/View-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/LAUNCHER-PROMOTER-MANAGER-FOR-KOLBI)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🌐 Web Development Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏠 [Trend Home](https://github.com/TeamInfinixdevcom/trendhomeoficialpage. io)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000? style=flat-square&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</div>
+
+**Corporate website** for furniture company with dynamic product catalog and multi-language support.
+
+**Key Features:**
+- 🌐 Multi-language (ES/EN)
+- 📦 Dynamic product catalog
+- 🔌 RESTful API backend
+- 🚀 Heroku deployment
+- 📱 Responsive design
+
+**Stack:** Python (Flask) • HTML • CSS • JavaScript
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/trendhomeoficialpage.io)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🏖️ [Heaven Coastal Florida](https://github.com/TeamInfinixdevcom/heavencoastalflorida_main)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26? style=flat-square&logo=html5&logoColor=white)
+
+</div>
+
+**Demo hotel website** showcasing modern web design and responsive layouts.
+
+**Key Features:**
+- 🎨 Modern design
+- 📱 Fully responsive
+- ⚡ TypeScript powered
+- 🖼️ Visual-focused
+- 📊 Portfolio demonstration
+
+**Stack:** TypeScript • CSS • HTML
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/heavencoastalflorida_main)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🤖 Automation & Bots
+
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+<div align="center">
+
+### 🕷️ [Scrapping Bot](https://github.com/TeamInfinixdevcom/scrappingbot)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00D084?style=flat-square)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6B6B?style=flat-square)
+
+</div>
+
+**Web scraping automation tool** for intelligent data collection and business intelligence.
+
+**Key Features:**
+- 🤖 Automated data extraction
+- 🔄 Scheduled scraping
+- 📊 Data processing pipeline
+- 💾 Storage management
+- 📈 Business intelligence support
+
+**Stack:** Python • HTML • CSS  
+**Use Cases:** Market research • Competitor monitoring • Data aggregation
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/View_Repository-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/scrappingbot)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 📊 Key Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/savings.png" width="60"/><br/>
+<h3>99.1%</h3>
+<p><strong>Cost Reduction</strong></p>
+<sub>Infrastructure optimization</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="60"/><br/>
+<h3>95%</h3>
+<p><strong>Query Optimization</strong></p>
+<sub>Database performance</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="60"/><br/>
+<h3>70%</h3>
+<p><strong>Process Efficiency</strong></p>
+<sub>Time savings achieved</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br/>
+<h3>10+</h3>
+<p><strong>Production Systems</strong></p>
+<sub>Live applications</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 💼 Professional Services
+
+<br/>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🚀 Full Stack Development
+
+End-to-end web applications using modern frameworks and cloud architecture.
+
+**Includes:**  
+Frontend • Backend • Database • Deployment • Maintenance
+
+<br/>
+
+![React](https://img.shields.io/badge/-React-61DAFB? style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### 💼 Enterprise Systems
+
+Custom CRM, ERP, and management systems tailored to business requirements.
+
+**Includes:**  
+Analysis • Architecture • Development • Integration • Training
+
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Security](https://img.shields.io/badge/-Security-00D084?style=flat-square&logo=lock&logoColor=white)
+
+</td>
+<td width="33%" align="center">
+
+### ☁️ Cloud Optimization
+
+Infrastructure cost reduction while maintaining performance and scalability.
+
+**Includes:**  
+Audit • Strategy • Implementation • Monitoring • Support
+
+<br/>
+
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Optimization](https://img.shields.io/badge/-Optimization-FF6B6B?style=flat-square&logo=speedtest&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🎯 Additional Services
+
+**System Architecture** • **Technical Consulting** • **Code Review** • **Performance Optimization** • **Security Audit** • **API Development**
+
+</div>
+
+<br/>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TeamInfinixdevcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamInfinixdevcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/? user=TeamInfinixdevcom&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🎯 Development Philosophy
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### Our Approach
+
+```javascript
+const developmentPrinciples = {
+  methodology: "Problem-first, code-second",
+  
+  priorities: [
+    "Understand business needs",
+    "Design scalable architecture",
+    "Write clean, maintainable code",
+    "Optimize for performance",
+    "Ensure long-term viability"
+  ],
+  
+  commitment: {
+    quality: "Enterprise-grade standards",
+    communication: "Transparent and constant",
+    delivery: "On-time, every time",
+    support: "Long-term partnership"
+  }
+};
 ```
 
-Ejemplo:
+</td>
+<td width="50%">
 
-```bash
-node scripts/cambiodeposicionaADMIN.js "./serviceAccountKey.json" "GDSTAxaKsRbQNnW3IjpYeIsIzSz2"
-```
+### Core Values
 
-4. El usuario debe cerrar sesión y volver a iniciar para que el claim se aplique.
+🎯 **Problem-First Thinking**  
+Understanding the challenge before proposing solutions
 
-### Seguridad
+⚡ **Performance Matters**  
+Every millisecond counts in user experience
 
-- Nunca subas `serviceAccountKey.json` al repositorio.
-- Guárdalo localmente y agrégalo a `.gitignore` si hace falta.
+🔐 **Security by Design**  
+Protection built-in from day one, not added later
+
+💰 **Cost Consciousness**  
+Maximum value with minimal waste
+
+📖 **Clean Code Culture**  
+Readable, documented, and maintainable
+
+🔄 **Agile Mindset**  
+Fast iterations with continuous improvement
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+
+<br/>
+
+### Let's Build Something Extraordinary Together
+
+<br/>
+
+<p align="center">
+  <a href="mailto:teaminfinixdev@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TeamInfinixdevcom">
+    <img src="https://img.shields.io/badge/💻_View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Portfolio" height="40"/>
+  </a>
+</p>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 📍 Location
+**Costa Rica 🇨🇷**  
+<sub>Central America</sub>
+
+</td>
+<td align="center" width="33%">
+
+#### 🕐 Timezone
+**UTC-6**  
+<sub>Compatible with Americas</sub>
+
+</td>
+<td align="center" width="33%">
+
+#### 🟢 Availability
+**Open for Projects**  
+<sub>Freelance & Consulting</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💼 Project Types
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Applications-0066FF?style=for-the-badge" alt="Web Apps"/>
+  <img src="https://img.shields.io/badge/Enterprise_Systems-00D084?style=for-the-badge" alt="Enterprise"/>
+  <img src="https://img.shields.io/badge/CRM_/_ERP-F85D7F?style=for-the-badge" alt="CRM ERP"/>
+  <img src="https://img.shields.io/badge/APIs-FFCA28?style=for-the-badge" alt="APIs"/>
+  <img src="https://img.shields.io/badge/Cloud_Migration-430098?style=for-the-badge" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Technical_Consulting-339933?style=for-the-badge" alt="Consulting"/>
+</p>
+
+<br/>
+
+### 💬 What to Expect
+
+✅ **Fast Response** — Initial reply within 24 hours  
+✅ **Free Consultation** — 30-minute discovery call  
+✅ **Transparent Pricing** — Clear quotes with no hidden fees  
+✅ **Agile Process** — Regular updates and iterations  
+✅ **Post-Launch Support** — We're here after deployment  
+
+<br/>
+
+<p align="center">
+  <a href="mailto:teaminfinixdev@gmail.com">
+    <img src="https://img.shields.io/badge/📬_Start_Your_Project_Now-FF6B6B?style=for-the-badge&labelColor=000000" alt="Start Project" height="50"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12,14,18,20,24&height=150&section=footer)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=TeamInfinixdevcom&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+<br/>
+
+**Developed with 💙 by Infinix Dev**  
+*By RYM Diseño Gráfico y Web*
+
+<br/>
+
+⭐️ **From** [Costa Rica](https://www.google.com/maps/place/Costa+Rica) **with love** 🇨🇷
+
+<sub>© 2024 Infinix Dev. All rights reserved. </sub>
+
+</div>
