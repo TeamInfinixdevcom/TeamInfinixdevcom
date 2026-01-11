@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Infinix%20Dev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Solutions%20that%20Transform&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Infinix%20Dev&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Excellence%20🚀&descAlignY=55&descSize=18)
 
 <br/>
 
@@ -35,7 +35,7 @@
 <tr>
 <td width="60%">
 
-**Infinix Dev** is a Costa Rican web development venture 🇨🇷 specializing in **enterprise-grade digital solutions** with a unique competitive advantage:  **maximum functionality at minimum infrastructure cost**. 
+**Infinix Dev** is a Costa Rican web development venture 🇨🇷 specializing in **enterprise-grade digital solutions** with a unique competitive advantage:  **maximum functionality at minimum infrastructure cost**.
 
 We architect and build full-stack applications that solve real business challenges through:  
 
@@ -80,7 +80,7 @@ const infinixDev = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
@@ -89,13 +89,13 @@ const infinixDev = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000? style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28? style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Tools & DevOps
@@ -349,6 +349,83 @@ const infinixDev = {
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 💼 [TalentCloud365](https://github.com/TeamInfinixdevcom/TalentCloud365)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+</div>
+
+**Enterprise sales management platform** with advanced financial projections, comprehensive analytics, and admin control panels.
+
+<div align="center">
+
+![TalentCloud365 Dashboard](https://i.imgur.com/QoH2uuH.png)
+
+</div>
+
+**Key Features:**
+- 💰 Financial projection & forecasting
+- 📊 Comprehensive sales tracking
+- 📈 Real-time analytics dashboard
+- 💼 Complete sales lifecycle management
+- 👨‍💼 Advanced admin control panel
+- 📉 Revenue analysis & metrics
+- 🎯 Goal tracking & monitoring
+- 📱 Responsive design
+- 🔔 Automated notifications
+- 📤 Export & reporting tools
+
+**Impact:** Enterprise-level sales management • Real-time financial insights • Streamlined operations
+
+<details>
+<summary>📸 <strong>View More Screenshots</strong></summary>
+
+<br/>
+
+<div align="center">
+
+**Financial Projections Dashboard**
+![Projections](https://i.imgur.com/SqdBeBI.png)
+
+<br/><br/>
+
+**General Overview & Analytics**
+![Overview](https://i.imgur.com/rE9ktIJ.png)
+
+<br/><br/>
+
+**Sales Listing & Management**
+![Sales](https://i.imgur.com/YQZeOUI.png)
+
+<br/><br/>
+
+**Administrative Control Panel**
+![Admin](https://i.imgur.com/j7vv3S1.png)
+
+</div>
+
+<br/>
+
+</details>
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -367,7 +444,7 @@ const infinixDev = {
 
 ### 📞 [Sim-K Managers](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
 
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E? style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Batch](https://img.shields.io/badge/Batch-4EAA25?style=flat-square)
 
 </div>
@@ -380,7 +457,7 @@ SIM card management and inventory tracking system.
 
 <div align="center">
 
-[![View](https://img.shields.io/badge/View-333? style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
+[![View](https://img.shields.io/badge/View-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
 
 </div>
 
@@ -450,10 +527,10 @@ Lightweight productivity tool for Kolbi promoters.
 
 <div align="center">
 
-### 🏠 [Trend Home](https://github.com/TeamInfinixdevcom/trendhomeoficialpage. io)
+### 🏠 [Trend Home](https://github.com/TeamInfinixdevcom/trendhomeoficialpage.io)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000? style=flat-square&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </div>
@@ -671,13 +748,13 @@ Audit • Strategy • Implementation • Monitoring • Support
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api? username=TeamInfinixdevcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TeamInfinixdevcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
 
-<img src="https://github-readme-stats.vercel. app/api/top-langs/? username=TeamInfinixdevcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamInfinixdevcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/? user=TeamInfinixdevcom&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamInfinixdevcom&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" width="70%"/>
 
 </div>
 
