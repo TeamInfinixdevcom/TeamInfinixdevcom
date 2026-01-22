@@ -123,13 +123,14 @@ const infinixDev = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background:linear-gradient(135deg,#f8fafc 60%,#e0e7ef 100%);border-radius:18px;box-shadow:0 2px 16px #0001;padding:22px 12px 18px 12px;margin:10px;vertical-align:top;">
 
-<div align="center">
+<div align="center" style="margin-bottom:10px;">
 
 ### 🏢 [InfiniHR Web](https://github.com/TeamInfinixdevcom/infinihr-web)
 
 ![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
+![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -160,6 +161,7 @@ const infinixDev = {
 ### ☕ [InfiniHR Backend](https://github.com/TeamInfinixdevcom/InfiniHR)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![API](https://img.shields.io/badge/REST_API-00D084?style=flat-square)
 
 </div>
@@ -202,6 +204,7 @@ const infinixDev = {
 ### 🔥 [Kolbi Monitor Web](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
@@ -211,7 +214,7 @@ const infinixDev = {
 
 <div align="center">
 
-![Kolbi Monitor Dashboard](https://i.imgur.com/f7IpieR.png)
+<img src="https://i.imgur.com/f7IpieR.png" alt="Kolbi Monitor Dashboard" style="border-radius:18px;box-shadow:0 4px 24px #0002,0 1px 2px #0002;max-width:92%;margin-top:10px;margin-bottom:10px;">
 
 </div>
 
@@ -278,6 +281,7 @@ const infinixDev = {
 ### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -287,7 +291,7 @@ const infinixDev = {
 
 <div align="center">
 
-![Performance Executive Dashboard](https://i.imgur.com/EiEX3KY.png)
+<img src="https://i.imgur.com/EiEX3KY.png" alt="Performance Executive Dashboard" style="border-radius:18px;box-shadow:0 4px 24px #0002,0 1px 2px #0002;max-width:92%;margin-top:10px;margin-bottom:10px;">
 
 </div>
 
@@ -357,8 +361,11 @@ const infinixDev = {
 ### 💼 [TalentCloud365](https://github.com/TeamInfinixdevcom/TalentCloud365)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -366,7 +373,7 @@ const infinixDev = {
 
 <div align="center">
 
-![TalentCloud365 Dashboard](https://i.imgur.com/QoH2uuH.png)
+<img src="https://i.imgur.com/QoH2uuH.png" alt="TalentCloud365 Dashboard" style="border-radius:18px;box-shadow:0 4px 24px #0002,0 1px 2px #0002;max-width:92%;margin-top:10px;margin-bottom:10px;">
 
 </div>
 
@@ -422,7 +429,51 @@ const infinixDev = {
 </div>
 
 </td>
+
 <td width="50%" valign="top">
+
+<div align="center">
+
+### 🌐 [EsyncSade](https://github.com/TeamInfinixdevcom/EsyncSade)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Enterprise eSIM Management Platform** for centralized cloud-based request, assignment, and administration of eSIM/SIM cards for telecom teams. Complete with secure login, batch upload, admin dashboards, and robust team/user management.
+
+<div align="center">
+
+<img src="https://imgur.com/qVmonVW.png" alt="EsyncSade Login" style="max-width:92%;margin-top:10px;margin-bottom:10px;border-radius:18px;box-shadow:0 4px 24px #0003,0 1px 2px #0002;">
+
+</div>
+
+**Key Features:**
+- 🔐 Secure Firebase login system
+- ☁️ Massive series uploads by lot
+- 📝 Cloud-based eSIM/SIM requests and assignment
+- 📊 Team & admin dashboards; usage tracking
+- 👥 User/role management, reporting, and audit trail
+
+<details>
+<summary>📸 <strong>View More Screenshots</strong></summary><br>
+<div align="center">
+
+<img src="https://imgur.com/aGiuCIV.png" alt="EsyncSade Dashboard" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
+<br>
+<img src="https://imgur.com/ZL6h3Wj.png" alt="EsyncSade User Management" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
+<br>
+<img src="https://imgur.com/rSCQNYK.png" alt="EsyncSade Admin/Report" style="max-width:90%;border-radius:16px;box-shadow:0 2px 12px #0001;">
+</div>
+</details>
+
+<div align="center">
+
+[![View Repo](https://img.shields.io/badge/View_Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
+
+</div>
+
+</div>
 
 </td>
 </tr>
