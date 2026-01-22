@@ -267,9 +267,13 @@ const infinixDev = {
 
 </details>
 
-<div align="center">
 
+<br/>
+🔗 **Demo en Vivo:**<br>
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
 [![View Repo](https://img.shields.io/badge/View_Repository-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
+&nbsp;
+[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kolbimonitorsells-infinix.web.app/)
 
 </div>
 
@@ -345,9 +349,13 @@ const infinixDev = {
 
 </details>
 
-<div align="center">
 
+<br/>
+🔗 **Demo en Vivo:**<br>
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
 [![View Repo](https://img.shields.io/badge/View_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
+&nbsp;
+[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://executiveperformancek.web.app/login)
 
 </div>
 
@@ -422,9 +430,13 @@ const infinixDev = {
 
 </details>
 
-<div align="center">
 
+<br/>
+🔗 **Demo en Vivo:**<br>
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
 [![View Repo](https://img.shields.io/badge/View_Repository-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
+&nbsp;
+[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talentcloud365.web.app/login)
 
 </div>
 
@@ -467,9 +479,13 @@ const infinixDev = {
 </div>
 </details>
 
-<div align="center">
 
+<br/>
+🔗 **Demo en Vivo:**<br>
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
 [![View Repo](https://img.shields.io/badge/View_Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
+&nbsp;
+[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://homewise-77.web.app/)
 
 </div>
 
