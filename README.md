@@ -268,12 +268,13 @@ const infinixDev = {
 </details>
 
 
-<br/>
-🔗 **Demo en Vivo:**<br>
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
+
+🔗 **Demo en Vivo:**  
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+
 [![View Repo](https://img.shields.io/badge/View_Repository-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
-&nbsp;
-[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kolbimonitorsells-infinix.web.app/)
+
+<a href="https://kolbimonitorsells-infinix.web.app/" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
 
 </div>
 
@@ -350,12 +351,13 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 </details>
 
 
-<br/>
-🔗 **Demo en Vivo:**<br>
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
+
+🔗 **Demo en Vivo:**  
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+
 [![View Repo](https://img.shields.io/badge/View_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
-&nbsp;
-[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://executiveperformancek.web.app/login)
+
+<a href="https://executiveperformancek.web.app/login" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
 
 </div>
 
@@ -431,12 +433,13 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 </details>
 
 
-<br/>
-🔗 **Demo en Vivo:**<br>
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
+
+🔗 **Demo en Vivo:**  
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+
 [![View Repo](https://img.shields.io/badge/View_Repository-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
-&nbsp;
-[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://talentcloud365.web.app/login)
+
+<a href="https://talentcloud365.web.app/login" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
 
 </div>
 
@@ -480,12 +483,13 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 </details>
 
 
-<br/>
-🔗 **Demo en Vivo:**<br>
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.<br><br>
+
+🔗 **Demo en Vivo:**  
+Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+
 [![View Repo](https://img.shields.io/badge/View_Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
-&nbsp;
-[![Ver App](https://img.shields.io/badge/Ver_App-00D084?style=for-the-badge&logo=googlechrome&logoColor=white)](https://homewise-77.web.app/)
+
+<a href="https://homewise-77.web.app/" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
 
 </div>
 
