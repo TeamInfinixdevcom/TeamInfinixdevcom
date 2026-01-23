@@ -25,7 +25,7 @@
 
 </div>
 
-
+<style>
 .ver-app-btn{display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;}
 .ver-app-btn:hover{opacity:0.92}
 </style>
@@ -1006,3 +1006,4 @@ Fast iterations with continuous improvement
 <sub>© 2024 Infinix Dev. All rights reserved.</sub>
 
 </div>
+
