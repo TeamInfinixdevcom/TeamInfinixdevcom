@@ -25,8 +25,12 @@
 
 </div>
 
----
 
+.ver-app-btn{display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;}
+.ver-app-btn:hover{opacity:0.92}
+</style>
+
+---
 <br/>
 
 ## 🌟 About Infinix Dev
@@ -274,7 +278,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
 
-<a href="https://kolbimonitorsells-infinix.web.app/" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
+<a href="https://kolbimonitorsells-infinix.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
 
 </div>
 
@@ -357,7 +361,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
-<a href="https://executiveperformancek.web.app/login" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
+<a href="https://executiveperformancek.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
 
 </div>
 
@@ -439,7 +443,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
 
-<a href="https://talentcloud365.web.app/login" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
+<a href="https://talentcloud365.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
 
 </div>
 
@@ -489,7 +493,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
 
-<a href="https://homewise-77.web.app/" target="_blank" style="display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;">Ver App</a>
+<a href="https://homewise-77.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
 
 </div>
 
