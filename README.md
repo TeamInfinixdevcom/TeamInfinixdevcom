@@ -278,9 +278,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
 
-<a href="https://kolbimonitorsells-infinix.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
-
-</div>
+  <a href="https://kolbimonitorsells-infinix.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
 
 </td>
 <td width="50%" valign="top">
@@ -361,9 +359,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
-<a href="https://executiveperformancek.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
-
-</div>
+  <a href="https://executiveperformancek.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
 
 </td>
 </tr>
@@ -443,9 +439,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
 
-<a href="https://talentcloud365.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
-
-</div>
+  <a href="https://talentcloud365.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
 
 </td>
 
@@ -493,13 +487,10 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 [![View Repo](https://img.shields.io/badge/View_Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
 
-<a href="https://homewise-77.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
-
-</div>
-
-</div>
-
-</td>
+  <a href="https://homewise-77.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
+ 
+ </div>
+ 
 </tr>
 </table>
 
