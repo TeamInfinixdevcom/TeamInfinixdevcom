@@ -720,26 +720,22 @@ Lightweight productivity tool for Kolbi promoters.
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/savings.png" width="60"/><br/>
-<h3>99.1%</h3>
+<h3>💰 99.1%</h3>
 <p><strong>Cost Reduction</strong></p>
 <sub>Infrastructure optimization</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/speed.png" width="60"/><br/>
-<h3>95%</h3>
+<h3>⚡ 95%</h3>
 <p><strong>Query Optimization</strong></p>
 <sub>Database performance</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="60"/><br/>
-<h3>70%</h3>
+<h3>🧠 70%</h3>
 <p><strong>Process Efficiency</strong></p>
 <sub>Time savings achieved</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/><br/>
-<h3>10+</h3>
+<h3>🚀 10+</h3>
 <p><strong>Production Systems</strong></p>
 <sub>Live applications</sub>
 </td>
@@ -827,13 +823,14 @@ Audit • Strategy • Implementation • Monitoring • Support
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TeamInfinixdevcom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
+![Followers](https://img.shields.io/github/followers/TeamInfinixdevcom?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/TeamInfinixdevcom/TeamInfinixdevcom?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/TeamInfinixdevcom/TeamInfinixdevcom?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/y/TeamInfinixdevcom/TeamInfinixdevcom?style=for-the-badge)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamInfinixdevcom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="48%"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeamInfinixdevcom&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" width="70%"/>
+[View Full Activity](https://github.com/TeamInfinixdevcom)
 
 </div>
 
