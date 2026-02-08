@@ -15,6 +15,9 @@
   <a href="https://github.com/TeamInfinixdevcom">
     <img src="https://img.shields.io/badge/💻_GitHub-TeamInfinixdevcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/ruben-madrigal-268139190">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Ruben_Madrigal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <p align="center">
@@ -25,12 +28,21 @@
 
 </div>
 
-<style>
-.ver-app-btn{display:inline-block;padding:10px 24px;background:#00D084;color:#fff;border:none;border-radius:6px;text-decoration:none;font-weight:bold;box-shadow:0 2px 6px rgba(0,0,0,0.15);font-family:sans-serif;}
-.ver-app-btn:hover{opacity:0.92}
-</style>
+<br/>
+
+## 📌 Index
+
+- [🌟 About Infinix Dev](#-about-infinix-dev)
+- [🛠️ Technology Stack](#-technology-stack)
+- [🏆 Featured Projects](#-featured-projects)
+- [📊 Key Achievements](#-key-achievements)
+- [💼 Professional Services](#-professional-services)
+- [📈 GitHub Statistics](#-github-statistics)
+- [🎯 Development Philosophy](#-development-philosophy)
+- [📞 Get In Touch](#-get-in-touch)
 
 ---
+
 <br/>
 
 ## 🌟 About Infinix Dev
@@ -115,6 +127,13 @@ const infinixDev = {
 
 ---
 
+## ✨ Highlights
+
+- 💰 **99.1% infrastructure cost savings** through optimization-first architecture
+- 🚀 **10+ production systems** delivered for enterprise teams
+- ⚡ **Real-time platforms** built on Firebase with high concurrency
+- 🔐 **Security-first delivery** with role-based access control and best practices
+
 ## 🏆 Featured Projects
 
 <br/>
@@ -134,7 +153,7 @@ const infinixDev = {
 ### 🏢 [InfiniHR Web](https://github.com/TeamInfinixdevcom/infinihr-web)
 
 ![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
-![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
@@ -165,7 +184,7 @@ const infinixDev = {
 ### ☕ [InfiniHR Backend](https://github.com/TeamInfinixdevcom/InfiniHR)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![API](https://img.shields.io/badge/REST_API-00D084?style=flat-square)
 
 </div>
@@ -208,7 +227,7 @@ const infinixDev = {
 ### 🔥 [Kolbi Monitor Web](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
@@ -273,12 +292,11 @@ const infinixDev = {
 
 
 
-🔗 **Demo en Vivo:**  
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+🔗 **Live Demo:**  
+You can access the login screen. Credentials are required to enter the system.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
-
-  <a href="https://kolbimonitorsells-infinix.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://kolbimonitorsells-infinix.web.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -288,7 +306,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 ### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
@@ -354,12 +372,11 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 
 
-🔗 **Demo en Vivo:**  
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+🔗 **Live Demo:**  
+You can access the login screen. Credentials are required to enter the system.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
-
-  <a href="https://executiveperformancek.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://executiveperformancek.web.app/login)
 
 </td>
 </tr>
@@ -371,11 +388,9 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 ### 💼 [TalentCloud365](https://github.com/TeamInfinixdevcom/TalentCloud365)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![En Producción](https://img.shields.io/badge/En%20Producción-00D084?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -434,12 +449,11 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 
 
-🔗 **Demo en Vivo:**  
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+🔗 **Live Demo:**  
+You can access the login screen. Credentials are required to enter the system.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
-
-  <a href="https://talentcloud365.web.app/login" target="_blank" class="ver-app-btn">Ver App</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://talentcloud365.web.app/login)
 
 </td>
 
@@ -457,7 +471,7 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 
 <div align="center">
 
-<img src="https://imgur.com/qVmonVW.png" alt="EsyncSade Login" style="max-width:92%;margin-top:10px;margin-bottom:10px;border-radius:18px;box-shadow:0 4px 24px #0003,0 1px 2px #0002;">
+<img src="https://i.imgur.com/qVmonVW.png" alt="EsyncSade Login" style="max-width:92%;margin-top:10px;margin-bottom:10px;border-radius:18px;box-shadow:0 4px 24px #0003,0 1px 2px #0002;">
 
 </div>
 
@@ -472,22 +486,21 @@ Puedes acceder a la pantalla de login de la aplicación. Se requieren credencial
 <summary>📸 <strong>View More Screenshots</strong></summary><br>
 <div align="center">
 
-<img src="https://imgur.com/aGiuCIV.png" alt="EsyncSade Dashboard" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
+<img src="https://i.imgur.com/aGiuCIV.png" alt="EsyncSade Dashboard" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
 <br>
-<img src="https://imgur.com/ZL6h3Wj.png" alt="EsyncSade User Management" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
+<img src="https://i.imgur.com/ZL6h3Wj.png" alt="EsyncSade User Management" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
 <br>
-<img src="https://imgur.com/rSCQNYK.png" alt="EsyncSade Admin/Report" style="max-width:90%;border-radius:16px;box-shadow:0 2px 12px #0001;">
+<img src="https://i.imgur.com/rSCQNYK.png" alt="EsyncSade Admin/Report" style="max-width:90%;border-radius:16px;box-shadow:0 2px 12px #0001;">
 </div>
 </details>
 
 
 
-🔗 **Demo en Vivo:**  
-Puedes acceder a la pantalla de login de la aplicación. Se requieren credenciales para ingresar al sistema.
+🔗 **Live Demo:**  
+You can access the login screen. Credentials are required to enter the system.
 
 [![View Repo](https://img.shields.io/badge/View_Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
-
-  <a href="https://homewise-77.web.app/" target="_blank" class="ver-app-btn">Ver App</a>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://homewise-77.web.app/)
  
  </div>
  
@@ -907,6 +920,10 @@ Fast iterations with continuous improvement
     <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ruben-madrigal-268139190">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TeamInfinixdevcom">
     <img src="https://img.shields.io/badge/💻_View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Portfolio" height="40"/>
   </a>
@@ -988,7 +1005,7 @@ Fast iterations with continuous improvement
 <br/>
 
 **Developed with 💙 by Infinix Dev**  
-*By RYM Diseño Gráfico y Web*
+*By RYM Graphic Design and Web*
 
 <br/>
 
