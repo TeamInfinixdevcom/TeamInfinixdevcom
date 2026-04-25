@@ -21,43 +21,54 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Costa_Rica_🇨🇷-00A0DC?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/🟢_Status-Available_for_Projects-00D084?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/🕐_Timezone-UTC--6-5865F2?style=for-the-badge" alt="Timezone"/>
+  <img src="https://img.shields.io/badge/📍_Ubicación-Costa_Rica_🇨🇷-00A0DC?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/🟢_Estado-Disponible_para_Proyectos-00D084?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/🕐_Zona_Horaria-UTC--6-5865F2?style=for-the-badge" alt="Timezone"/>
 </p>
 
 </div>
 
 <br/>
 
-## 📌 Index
+## 📌 Índice / Index
 
-- [🌟 About Infinix Dev](#-about-infinix-dev)
-- [🛠️ Technology Stack](#-technology-stack)
-- [🏆 Featured Projects](#-featured-projects)
-- [📊 Key Achievements](#-key-achievements)
-- [💼 Professional Services](#-professional-services)
-- [📈 GitHub Statistics](#-github-statistics)
-- [🎯 Development Philosophy](#-development-philosophy)
-- [📞 Get In Touch](#-get-in-touch)
+- [🌟 Sobre Infinix Dev / About](#-sobre-infinix-dev--about-infinix-dev)
+- [🛠️ Stack Tecnológico / Tech Stack](#️-stack-tecnológico--technology-stack)
+- [🏆 Proyectos Destacados / Featured Projects](#-proyectos-destacados--featured-projects)
+- [📊 Métricas Clave / Key Metrics](#-métricas-clave--key-metrics)
+- [💼 Servicios / Professional Services](#-servicios--professional-services)
+- [📈 Estadísticas GitHub / GitHub Statistics](#-estadísticas-github--github-statistics)
+- [📞 Contacto / Get In Touch](#-contacto--get-in-touch)
 
 ---
 
 <br/>
 
-## 🌟 About Infinix Dev
+## 🌟 Sobre Infinix Dev / About Infinix Dev
 
 <table>
 <tr>
 <td width="60%">
 
-**Infinix Dev** is a Costa Rican web development venture 🇨🇷 specializing in **enterprise-grade digital solutions** with a unique competitive advantage:  **maximum functionality at minimum infrastructure cost**.
+🇪🇸 **Infinix Dev** es una empresa de desarrollo web costarricense 🇨🇷 especializada en **soluciones digitales empresariales** con una ventaja competitiva clara: **máxima funcionalidad al menor costo de infraestructura posible**.
 
-We architect and build full-stack applications that solve real business challenges through:  
+Diseñamos y construimos aplicaciones full-stack que resuelven desafíos reales de negocio:
+
+- ⚡ **Alto Rendimiento** — Optimizado para velocidad y eficiencia
+- 🔐 **Seguridad Empresarial** — Mejores prácticas desde el diseño hasta el despliegue
+- 💰 **Optimización de Costos** — Arquitectura enfocada en eficiencia de infraestructura
+- 📈 **Arquitectura Escalable** — Construida para crecer con tu negocio
+- 🎯 **Enfoque en el Problema** — Entender antes de implementar
+
+---
+
+🇺🇸 **Infinix Dev** is a Costa Rican web development company 🇨🇷 specializing in **enterprise-grade digital solutions** with a clear competitive advantage: **maximum functionality at minimum infrastructure cost**.
+
+We design and build full-stack applications that solve real business challenges:
 
 - ⚡ **High Performance** — Optimized for speed and efficiency
-- 🔐 **Enterprise Security** — Best practices from design to deployment  
-- 💰 **Cost Intelligence** — Proven 99.1% savings on infrastructure
+- 🔐 **Enterprise Security** — Best practices from design to deployment
+- 💰 **Cost Optimization** — Infrastructure-efficiency-first architecture
 - 📈 **Scalable Architecture** — Built to grow with your business
 - 🎯 **Problem-First Approach** — Understanding before implementing
 
@@ -75,7 +86,7 @@ const infinixDev = {
     "Real-time Systems",
     "Enterprise Apps"
   ],
-  achievement: "99.1% cost savings"
+  available: true
 };
 ```
 
@@ -87,38 +98,30 @@ const infinixDev = {
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Stack Tecnológico / Technology Stack
 
 <div align="center">
 
-### Frontend Development
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### Backend Development
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Database & Cloud
+### Base de Datos & Cloud / Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### Tools & DevOps
+### Herramientas / Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -127,84 +130,53 @@ const infinixDev = {
 
 ---
 
-## ✨ Highlights
-
-- 💰 **99.1% infrastructure cost savings** through optimization-first architecture
-- 🚀 **10+ production systems** delivered for enterprise teams
-- ⚡ **Real-time platforms** built on Firebase with high concurrency
-- 🔐 **Security-first delivery** with role-based access control and best practices
-
-## 🏆 Featured Projects
+## 🏆 Proyectos Destacados / Featured Projects
 
 <br/>
 
-<div align="center">
-
-### 💼 Enterprise Systems
-
-</div>
+### 💼 Sistemas Empresariales / Enterprise Systems
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background:linear-gradient(135deg,#f8fafc 60%,#e0e7ef 100%);border-radius:18px;box-shadow:0 2px 16px #0001;padding:22px 12px 18px 12px;margin:10px;vertical-align:top;">
+<td width="50%" valign="top">
 
-<div align="center" style="margin-bottom:10px;">
-
-### 🏢 [InfiniHR Web](https://github.com/TeamInfinixdevcom/infinihr-web)
+#### 🏢 [InfiniHR Web](https://github.com/TeamInfinixdevcom/infinihr-web)
 
 ![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
-![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+**Sistema de Gestión de Recursos Humanos** / **Human Resources Management System** — enterprise security, role-based access control, and complete employee lifecycle management.
 
-**Human Resources Management System** with enterprise-level security, role-based access control, and complete employee lifecycle management.
+**Funcionalidades / Features:**
+- 🔐 Autenticación segura con bcrypt / Secure auth with bcrypt
+- 📊 Gestión de vacaciones y permisos / Vacation & leave management
+- 👥 Administración de empleados y departamentos / Employee & department admin
+- 📈 Reportes y analíticas / Reporting and analytics
+- ⚡ Arquitectura RESTful API
 
-**Key Features:**
-- 🔐 Secure authentication with bcrypt
-- 📊 Vacation & leave management
-- 👥 Employee & department administration
-- 📈 Reporting and analytics
-- ⚡ RESTful API architecture
-
-**Impact:** Enterprise-grade scalability • Corporate security standards
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/View_Repository-0066FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/infinihr-web)
-
-</div>
+[![View Repo](https://img.shields.io/badge/Repositorio-0066FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/infinihr-web)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### ☕ [InfiniHR Backend](https://github.com/TeamInfinixdevcom/InfiniHR)
+#### ☕ [InfiniHR Backend](https://github.com/TeamInfinixdevcom/InfiniHR)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-00D084?style=flat-square)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-00D084?style=flat-square)
 
-</div>
+**Backend del sistema HR** / **HR system backend** — built with Java, handling business logic, data processing, and API endpoints.
 
-**Backend core** for HR system built with Java, handling business logic, data processing, and API endpoints.
+**Funcionalidades / Features:**
+- ☕ Implementación Java pura / Pure Java implementation
+- 🔄 Arquitectura de microservicios / Microservice architecture
+- 📡 Diseño RESTful API
+- 🔧 Capa de lógica de negocio / Business logic layer
+- 💾 Motor de procesamiento de datos / Data processing engine
 
-**Key Features:**
-- ☕ Pure Java implementation
-- 🔄 Microservice architecture
-- 📡 RESTful API design
-- 🔧 Business logic layer
-- 💾 Data processing engine
-
-**Impact:** Robust backend • Scalable architecture
-
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/View_Repository-ED8B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/InfiniHR)
-
-</div>
+[![View Repo](https://img.shields.io/badge/Repositorio-ED8B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/InfiniHR)
 
 </td>
 </tr>
@@ -212,170 +184,91 @@ const infinixDev = {
 
 <br/>
 
-<div align="center">
-
-### 📊 Sales & CRM Solutions
-
-</div>
+### 📊 Ventas & CRM / Sales & CRM Solutions
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🔥 [Kolbi Monitor Web](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
+#### 🔥 [Kolbi Monitor Web](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-</div>
-
-**Real-time inventory and sales management** system for Kolbi teams with instant notifications and comprehensive reporting. 
+**Sistema de inventario y ventas en tiempo real** / **Real-time inventory and sales management** for Kolbi teams with instant notifications and comprehensive reporting.
 
 <div align="center">
-
-<img src="https://i.imgur.com/f7IpieR.png" alt="Kolbi Monitor Dashboard" style="border-radius:18px;box-shadow:0 4px 24px #0002,0 1px 2px #0002;max-width:92%;margin-top:10px;margin-bottom:10px;">
-
+<img src="https://i.imgur.com/f7IpieR.png" alt="Kolbi Monitor Dashboard" style="max-width:92%;margin:10px 0;border-radius:12px;">
 </div>
 
-**Key Features:**
-- ⚡ Real-time Firebase sync
-- 👥 Role-based authentication (Admin/Supervisor/Promotor)
-- 📦 Inventory tracking & management
-- 📊 Live dashboards with Chart.js
-- 📄 PDF & Excel report generation
-- 🔔 Push notifications
-- 📱 Responsive design for mobile and desktop
-- 🎯 Request workflow system
-- 📈 Advanced metrics and analytics
-
-**Impact:** 70% faster request processing • Multi-location support • Real-time inventory visibility
+**Funcionalidades / Features:**
+- ⚡ Sincronización Firebase en tiempo real / Real-time Firebase sync
+- 👥 Autenticación por roles (Admin/Supervisor/Promotor) / Role-based auth
+- 📦 Control de inventario / Inventory tracking
+- 📊 Dashboards con Chart.js
+- 📄 Reportes en PDF y Excel / PDF & Excel reports
+- 🔔 Notificaciones push / Push notifications
 
 <details>
-<summary>📸 <strong>View More Screenshots</strong></summary>
-
+<summary>📸 Ver más capturas / View More Screenshots</summary>
 <br/>
-
 <div align="center">
 
-**Login & Home Interface**
 ![Home](https://i.imgur.com/eaYlQXi.png)
-
-<br/><br/>
-
-**Advanced Metrics Dashboard**
 ![Metrics](https://i.imgur.com/m1HF1KX.png)
-
-<br/><br/>
-
-**Request Management System**
 ![Requests](https://i.imgur.com/YOQqsgy.png)
-
-<br/><br/>
-
-**Inventory Control**
 ![Inventory](https://i.imgur.com/EuC4s0K.png)
 
-<br/><br/>
-
-**System Overview & Features**
-![Overview](https://i.imgur.com/YOQk8EY.png)
-
 </div>
-
-<br/>
-
 </details>
 
+🔗 *Acceso con credenciales requeridas / Login credentials required.*
 
-
-🔗 **Live Demo:**  
-You can access the login screen. Credentials are required to enter the system.
-
-[![View Repo](https://img.shields.io/badge/View_Repository-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
+[![Repositorio](https://img.shields.io/badge/Repositorio-61DAFB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/kolbi-monitor-web)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://kolbimonitorsells-infinix.web.app/)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
+#### 💎 [Performance Executive](https://github.com/TeamInfinixdevcom/performandeexecutive)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</div>
-
-**CRM system for ICE sales executives** with extreme cost optimization achieving 99.1% infrastructure savings.
+**CRM para ejecutivos de ventas ICE** / **CRM for ICE sales executives** — featuring intelligent caching and infrastructure cost optimization that enabled 50–100 concurrent users on a free-tier plan.
 
 <div align="center">
-
-<img src="https://i.imgur.com/EiEX3KY.png" alt="Performance Executive Dashboard" style="border-radius:18px;box-shadow:0 4px 24px #0002,0 1px 2px #0002;max-width:92%;margin-top:10px;margin-bottom:10px;">
-
+<img src="https://i.imgur.com/EiEX3KY.png" alt="Performance Executive Dashboard" style="max-width:92%;margin:10px 0;border-radius:12px;">
 </div>
 
-**Key Features:**
-- 💰 Intelligent caching system
-- 📉 Query limit management
-- 🎯 Sales projections & goals
-- 👨‍💼 Admin supervision panel
-- ⚡ Anti-duplication intervals
-- 📊 Performance analytics with visual charts
-- 👥 Customer segmentation (Platinum, Gold, Silver, Bronze, Black)
-- 📈 Real-time metrics dashboard
-- 📤 Excel export functionality
-- 🔔 Notifications system
-
-**Impact:** 99.1% cost reduction • 50-100 concurrent users on free tier • 95% query optimization
+**Funcionalidades / Features:**
+- 💰 Sistema de caché inteligente / Intelligent caching system
+- 📉 Gestión de límites de consultas / Query limit management
+- 🎯 Proyecciones y metas de ventas / Sales projections & goals
+- 👨‍💼 Panel de supervisión admin / Admin supervision panel
+- 📊 Analíticas con gráficos visuales / Performance analytics
+- 👥 Segmentación de clientes / Customer segmentation
+- 📤 Exportación a Excel / Excel export
 
 <details>
-<summary>📸 <strong>View More Screenshots</strong></summary>
-
+<summary>📸 Ver más capturas / View More Screenshots</summary>
 <br/>
-
 <div align="center">
 
-**Dashboard Analytics & Metrics**
 ![Dashboard](https://i.imgur.com/1AZZ0FZ.png)
-
-<br/><br/>
-
-**Customer Management Interface**
 ![Customers](https://i.imgur.com/J8lCpzQ.png)
-
-<br/><br/>
-
-**Sales Tracking & Reports**
 ![Sales](https://i.imgur.com/0radxMK.png)
 
-<br/><br/>
-
-**Advanced Features**
-![Features 1](https://i.imgur.com/2XNWQxZ.png)
-
-<br/><br/>
-
-**System Overview**
-![Features 2](https://i.imgur.com/T89ldnn.png)
-
 </div>
-
-<br/>
-
 </details>
 
+🔗 *Acceso con credenciales requeridas / Login credentials required.*
 
-
-🔗 **Live Demo:**  
-You can access the login screen. Credentials are required to enter the system.
-
-[![View Repo](https://img.shields.io/badge/View_Repository-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
+[![Repositorio](https://img.shields.io/badge/Repositorio-F7DF1E?style=for-the-badge&logo=github&logoColor=black)](https://github.com/TeamInfinixdevcom/performandeexecutive)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://executiveperformancek.web.app/login)
 
 </td>
@@ -383,210 +276,129 @@ You can access the login screen. Credentials are required to enter the system.
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 💼 [TalentCloud365](https://github.com/TeamInfinixdevcom/TalentCloud365)
+#### 💼 [TalentCloud365](https://github.com/TeamInfinixdevcom/TalentCloud365)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square&logo=checkmarx&logoColor=white)
+![In Production](https://img.shields.io/badge/In_Production-00D084?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</div>
-
-**Enterprise sales management platform** with advanced financial projections, comprehensive analytics, and admin control panels.
+**Plataforma de gestión de ventas empresariales** / **Enterprise sales management platform** with financial projections, analytics, and admin control panels.
 
 <div align="center">
-
-<img src="https://i.imgur.com/QoH2uuH.png" alt="TalentCloud365 Dashboard" style="border-radius:18px;box-shadow:0 4px 24px #0002,0 1px 2px #0002;max-width:92%;margin-top:10px;margin-bottom:10px;">
-
+<img src="https://i.imgur.com/QoH2uuH.png" alt="TalentCloud365 Dashboard" style="max-width:92%;margin:10px 0;border-radius:12px;">
 </div>
 
-**Key Features:**
-- 💰 Financial projection & forecasting
-- 📊 Comprehensive sales tracking
-- 📈 Real-time analytics dashboard
-- 💼 Complete sales lifecycle management
-- 👨‍💼 Advanced admin control panel
-- 📉 Revenue analysis & metrics
-- 🎯 Goal tracking & monitoring
-- 📱 Responsive design
-- 🔔 Automated notifications
-- 📤 Export & reporting tools
-
-**Impact:** Enterprise-level sales management • Real-time financial insights • Streamlined operations
+**Funcionalidades / Features:**
+- 💰 Proyecciones financieras / Financial projections
+- 📊 Seguimiento de ventas completo / Comprehensive sales tracking
+- 📈 Dashboard analítico en tiempo real / Real-time analytics
+- 👨‍💼 Panel de administración avanzado / Advanced admin panel
+- 📤 Herramientas de exportación y reporte / Export & reporting
 
 <details>
-<summary>📸 <strong>View More Screenshots</strong></summary>
-
+<summary>📸 Ver más capturas / View More Screenshots</summary>
 <br/>
-
 <div align="center">
 
-**Financial Projections Dashboard**
 ![Projections](https://i.imgur.com/SqdBeBI.png)
-
-<br/><br/>
-
-**General Overview & Analytics**
 ![Overview](https://i.imgur.com/rE9ktIJ.png)
-
-<br/><br/>
-
-**Sales Listing & Management**
 ![Sales](https://i.imgur.com/YQZeOUI.png)
-
-<br/><br/>
-
-**Administrative Control Panel**
 ![Admin](https://i.imgur.com/j7vv3S1.png)
 
 </div>
-
-<br/>
-
 </details>
 
+🔗 *Acceso con credenciales requeridas / Login credentials required.*
 
-
-🔗 **Live Demo:**  
-You can access the login screen. Credentials are required to enter the system.
-
-[![View Repo](https://img.shields.io/badge/View_Repository-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
+[![Repositorio](https://img.shields.io/badge/Repositorio-00D084?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/TalentCloud365)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://talentcloud365.web.app/login)
 
 </td>
-
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🌐 [EsyncSade](https://github.com/TeamInfinixdevcom/EsyncSade)
+#### 🌐 [EsyncSade](https://github.com/TeamInfinixdevcom/EsyncSade)
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Enterprise eSIM Management Platform** for centralized cloud-based request, assignment, and administration of eSIM/SIM cards for telecom teams. Complete with secure login, batch upload, admin dashboards, and robust team/user management.
+**Plataforma de gestión de eSIM empresarial** / **Enterprise eSIM Management Platform** — centralized cloud-based request, assignment, and administration of eSIM/SIM cards for telecom teams.
 
 <div align="center">
-
-<img src="https://i.imgur.com/qVmonVW.png" alt="EsyncSade Login" style="max-width:92%;margin-top:10px;margin-bottom:10px;border-radius:18px;box-shadow:0 4px 24px #0003,0 1px 2px #0002;">
-
+<img src="https://i.imgur.com/qVmonVW.png" alt="EsyncSade Login" style="max-width:92%;margin:10px 0;border-radius:12px;">
 </div>
 
-**Key Features:**
-- 🔐 Secure Firebase login system
-- ☁️ Massive series uploads by lot
-- 📝 Cloud-based eSIM/SIM requests and assignment
-- 📊 Team & admin dashboards; usage tracking
-- 👥 User/role management, reporting, and audit trail
+**Funcionalidades / Features:**
+- 🔐 Login seguro con Firebase / Secure Firebase login
+- ☁️ Carga masiva de series por lote / Batch series upload
+- 📝 Solicitud y asignación de eSIM en la nube / Cloud eSIM requests
+- 📊 Dashboards de equipo y administración / Team & admin dashboards
+- 👥 Gestión de usuarios/roles y auditoría / User/role management & audit trail
 
 <details>
-<summary>📸 <strong>View More Screenshots</strong></summary><br>
+<summary>📸 Ver más capturas / View More Screenshots</summary>
+<br/>
 <div align="center">
 
-<img src="https://i.imgur.com/aGiuCIV.png" alt="EsyncSade Dashboard" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
-<br>
-<img src="https://i.imgur.com/ZL6h3Wj.png" alt="EsyncSade User Management" style="max-width:90%;margin-bottom:15px;border-radius:16px;box-shadow:0 2px 12px #0001;">
-<br>
-<img src="https://i.imgur.com/rSCQNYK.png" alt="EsyncSade Admin/Report" style="max-width:90%;border-radius:16px;box-shadow:0 2px 12px #0001;">
+<img src="https://i.imgur.com/aGiuCIV.png" alt="EsyncSade Dashboard" style="max-width:90%;margin-bottom:10px;border-radius:12px;">
+<img src="https://i.imgur.com/ZL6h3Wj.png" alt="EsyncSade User Management" style="max-width:90%;margin-bottom:10px;border-radius:12px;">
+<img src="https://i.imgur.com/rSCQNYK.png" alt="EsyncSade Admin/Report" style="max-width:90%;border-radius:12px;">
+
 </div>
 </details>
 
+🔗 *Acceso con credenciales requeridas / Login credentials required.*
 
-
-🔗 **Live Demo:**  
-You can access the login screen. Credentials are required to enter the system.
-
-[![View Repo](https://img.shields.io/badge/View_Repository-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
+[![Repositorio](https://img.shields.io/badge/Repositorio-20232A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EsyncSade)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D084?style=for-the-badge&logo=vercel&logoColor=white)](https://homewise-77.web.app/)
- 
- </div>
- 
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<div align="center">
-
-### 📱 Commercial Tools & Utilities
-
-</div>
+### 📱 Herramientas Comerciales / Commercial Tools
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<div align="center">
-
-### 📞 [Sim-K Managers](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
+#### 📞 [Sim-K Managers](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Batch](https://img.shields.io/badge/Batch-4EAA25?style=flat-square)
 
-</div>
+Sistema de gestión e inventario de tarjetas SIM / SIM card management and inventory tracking system.
 
-SIM card management and inventory tracking system.  
+**Stack:** JavaScript • HTML • Batch
 
-**Stack:** JavaScript • HTML • Batch  
-**Type:** Desktop application  
-**Focus:** Automation & tracking
-
-<div align="center">
-
-[![View](https://img.shields.io/badge/View-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
-
-</div>
+[![Ver / View](https://img.shields.io/badge/Repositorio-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/Sim-K-Managers)
 
 </td>
 <td width="33%" valign="top">
 
-<div align="center">
-
-### 🔍 [EXTRACTOR SIM](https://github.com/TeamInfinixdevcom/EXTRACTORSIM)
+#### 🔍 [Extractor SIM](https://github.com/TeamInfinixdevcom/EXTRACTORSIM)
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-</div>
+Herramienta de extracción de datos para procesamiento de información SIM / Data extraction tool for SIM card information processing.
 
-Data extraction tool for SIM card information processing.
+**Stack:** JavaScript • HTML • CSS
 
-**Stack:** JavaScript • HTML • CSS  
-**Type:** Web-based tool  
-**Focus:** Automated extraction
-
-<div align="center">
-
-[![View](https://img.shields.io/badge/View-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EXTRACTORSIM)
-
-</div>
+[![Ver / View](https://img.shields.io/badge/Repositorio-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/EXTRACTORSIM)
 
 </td>
 <td width="33%" valign="top">
 
-<div align="center">
-
-### 🚀 [Launcher Manager](https://github.com/TeamInfinixdevcom/LAUNCHER-PROMOTER-MANAGER-FOR-KOLBI)
+#### 🚀 [Launcher Manager](https://github.com/TeamInfinixdevcom/LAUNCHER-PROMOTER-MANAGER-FOR-KOLBI)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![LocalStorage](https://img.shields.io/badge/localStorage-FFA500?style=flat-square)
 
-</div>
+Herramienta de productividad ligera para promotores Kolbi / Lightweight productivity tool for Kolbi promoters.
 
-Lightweight productivity tool for Kolbi promoters.  
+**Stack:** HTML • JavaScript (sin backend / no backend)
 
-**Stack:** HTML • JavaScript  
-**Features:** WhatsApp templates  
-**Design:** No backend required
-
-<div align="center">
-
-[![View](https://img.shields.io/badge/View-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/LAUNCHER-PROMOTER-MANAGER-FOR-KOLBI)
-
-</div>
+[![Ver / View](https://img.shields.io/badge/Repositorio-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/LAUNCHER-PROMOTER-MANAGER-FOR-KOLBI)
 
 </td>
 </tr>
@@ -594,72 +406,35 @@ Lightweight productivity tool for Kolbi promoters.
 
 <br/>
 
-<div align="center">
-
-### 🌐 Web Development Projects
-
-</div>
+### 🌐 Proyectos Web / Web Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🏠 [Trend Home](https://github.com/TeamInfinixdevcom/trendhomeoficialpage.io)
+#### 🏠 [Trend Home](https://github.com/TeamInfinixdevcom/trendhomeoficialpage.io)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-</div>
-
-**Corporate website** for furniture company with dynamic product catalog and multi-language support.
-
-**Key Features:**
-- 🌐 Multi-language (ES/EN)
-- 📦 Dynamic product catalog
-- 🔌 RESTful API backend
-- 🚀 Heroku deployment
-- 📱 Responsive design
+**Sitio corporativo** para empresa de muebles con catálogo dinámico y soporte multiidioma / **Corporate website** for furniture company with dynamic catalog and multi-language support.
 
 **Stack:** Python (Flask) • HTML • CSS • JavaScript
 
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/View_Repository-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/trendhomeoficialpage.io)
-
-</div>
+[![Repositorio](https://img.shields.io/badge/Repositorio-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/trendhomeoficialpage.io)
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🏖️ [Heaven Coastal Florida](https://github.com/TeamInfinixdevcom/heavencoastalflorida_main)
+#### 🏖️ [Heaven Coastal Florida](https://github.com/TeamInfinixdevcom/heavencoastalflorida_main)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-</div>
-
-**Demo hotel website** showcasing modern web design and responsive layouts.
-
-**Key Features:**
-- 🎨 Modern design
-- 📱 Fully responsive
-- ⚡ TypeScript powered
-- 🖼️ Visual-focused
-- 📊 Portfolio demonstration
+**Sitio web de hotel demo** con diseño moderno y layouts responsivos / **Demo hotel website** showcasing modern web design and responsive layouts.
 
 **Stack:** TypeScript • CSS • HTML
 
-<div align="center">
-
-[![View Repo](https://img.shields.io/badge/View_Repository-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/heavencoastalflorida_main)
-
-</div>
+[![Repositorio](https://img.shields.io/badge/Repositorio-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/heavencoastalflorida_main)
 
 </td>
 </tr>
@@ -667,77 +442,48 @@ Lightweight productivity tool for Kolbi promoters.
 
 <br/>
 
-<div align="center">
+### 🤖 Automatización / Automation
 
-### 🤖 Automation & Bots
-
-</div>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-<div align="center">
-
-### 🕷️ [Scrapping Bot](https://github.com/TeamInfinixdevcom/scrappingbot)
+#### 🕷️ [Scrapping Bot](https://github.com/TeamInfinixdevcom/scrappingbot)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00D084?style=flat-square)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-FF6B6B?style=flat-square)
 
-</div>
-
-**Web scraping automation tool** for intelligent data collection and business intelligence.
-
-**Key Features:**
-- 🤖 Automated data extraction
-- 🔄 Scheduled scraping
-- 📊 Data processing pipeline
-- 💾 Storage management
-- 📈 Business intelligence support
+**Herramienta de web scraping** para recolección inteligente de datos e inteligencia de negocios / **Web scraping automation tool** for intelligent data collection and business intelligence.
 
 **Stack:** Python • HTML • CSS  
-**Use Cases:** Market research • Competitor monitoring • Data aggregation
+**Casos de uso / Use cases:** Investigación de mercado • Monitoreo de competidores • Agregación de datos
 
-<div align="center">
-
-[![View Repository](https://img.shields.io/badge/View_Repository-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/scrappingbot)
-
-</div>
-
-</td>
-</tr>
-</table>
+[![Repositorio](https://img.shields.io/badge/Repositorio-3776AB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamInfinixdevcom/scrappingbot)
 
 <br/>
 
 ---
 
-## 📊 Key Achievements
+## 📊 Métricas Clave / Key Metrics
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>💰 99.1%</h3>
-<p><strong>Cost Reduction</strong></p>
-<sub>Infrastructure optimization</sub>
+<h3>💰 ~99%</h3>
+<p><strong>Reducción de Costos / Cost Reduction</strong></p>
+<sub>Optimización de infraestructura / Infrastructure optimization (Performance Executive)</sub>
 </td>
 <td align="center" width="25%">
-<h3>⚡ 95%</h3>
-<p><strong>Query Optimization</strong></p>
-<sub>Database performance</sub>
+<h3>⚡ Alta</h3>
+<p><strong>Optimización de Consultas / Query Optimization</strong></p>
+<sub>Caché inteligente y paginación / Smart caching & pagination</sub>
 </td>
 <td align="center" width="25%">
-<h3>🧠 70%</h3>
-<p><strong>Process Efficiency</strong></p>
-<sub>Time savings achieved</sub>
+<h3>🧠 Notable</h3>
+<p><strong>Eficiencia de Procesos / Process Efficiency</strong></p>
+<sub>Flujos automatizados / Automated workflows</sub>
 </td>
 <td align="center" width="25%">
 <h3>🚀 10+</h3>
-<p><strong>Production Systems</strong></p>
-<sub>Live applications</sub>
+<p><strong>Sistemas en Producción / Production Systems</strong></p>
+<sub>Aplicaciones activas / Live applications</sub>
 </td>
 </tr>
 </table>
@@ -748,9 +494,7 @@ Lightweight productivity tool for Kolbi promoters.
 
 ---
 
-## 💼 Professional Services
-
-<br/>
+## 💼 Servicios / Professional Services
 
 <table>
 <tr>
@@ -758,12 +502,10 @@ Lightweight productivity tool for Kolbi promoters.
 
 ### 🚀 Full Stack Development
 
-End-to-end web applications using modern frameworks and cloud architecture.
+Aplicaciones web end-to-end con frameworks modernos / End-to-end web applications using modern frameworks.
 
-**Includes:**  
-Frontend • Backend • Database • Deployment • Maintenance
-
-<br/>
+**Incluye / Includes:**  
+Frontend • Backend • BD/DB • Despliegue/Deploy • Mantenimiento/Maintenance
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -772,34 +514,28 @@ Frontend • Backend • Database • Deployment • Maintenance
 </td>
 <td width="33%" align="center">
 
-### 💼 Enterprise Systems
+### 💼 Sistemas Empresariales / Enterprise Systems
 
-Custom CRM, ERP, and management systems tailored to business requirements.
+CRM, ERP y sistemas de gestión a medida / Custom CRM, ERP, and management systems.
 
-**Includes:**  
-Analysis • Architecture • Development • Integration • Training
-
-<br/>
+**Incluye / Includes:**  
+Análisis • Arquitectura • Desarrollo • Integración • Capacitación
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Security](https://img.shields.io/badge/-Security-00D084?style=flat-square&logo=lock&logoColor=white)
 
 </td>
 <td width="33%" align="center">
 
-### ☁️ Cloud Optimization
+### ☁️ Optimización Cloud / Cloud Optimization
 
-Infrastructure cost reduction while maintaining performance and scalability.
+Reducción de costos de infraestructura manteniendo rendimiento / Infrastructure cost reduction while maintaining performance.
 
-**Includes:**  
-Audit • Strategy • Implementation • Monitoring • Support
-
-<br/>
+**Incluye / Includes:**  
+Auditoría • Estrategia • Implementación • Monitoreo
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Optimization](https://img.shields.io/badge/-Optimization-FF6B6B?style=flat-square&logo=speedtest&logoColor=white)
 
 </td>
 </tr>
@@ -809,9 +545,7 @@ Audit • Strategy • Implementation • Monitoring • Support
 
 <div align="center">
 
-### 🎯 Additional Services
-
-**System Architecture** • **Technical Consulting** • **Code Review** • **Performance Optimization** • **Security Audit** • **API Development**
+**Arquitectura de sistemas** • **Consultoría técnica** • **Code review** • **Optimización de rendimiento** • **Auditoría de seguridad** • **Desarrollo de APIs**
 
 </div>
 
@@ -819,18 +553,17 @@ Audit • Strategy • Implementation • Monitoring • Support
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Estadísticas GitHub / GitHub Statistics
 
 <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/TeamInfinixdevcom?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/TeamInfinixdevcom/TeamInfinixdevcom?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/TeamInfinixdevcom/TeamInfinixdevcom?style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/y/TeamInfinixdevcom/TeamInfinixdevcom?style=for-the-badge)
 
 <br/>
 
-[View Full Activity](https://github.com/TeamInfinixdevcom)
+[Ver actividad completa / View Full Activity](https://github.com/TeamInfinixdevcom)
 
 </div>
 
@@ -838,91 +571,28 @@ Audit • Strategy • Implementation • Monitoring • Support
 
 ---
 
-## 🎯 Development Philosophy
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### Our Approach
-
-```javascript
-const developmentPrinciples = {
-  methodology: "Problem-first, code-second",
-  
-  priorities: [
-    "Understand business needs",
-    "Design scalable architecture",
-    "Write clean, maintainable code",
-    "Optimize for performance",
-    "Ensure long-term viability"
-  ],
-  
-  commitment: {
-    quality: "Enterprise-grade standards",
-    communication: "Transparent and constant",
-    delivery: "On-time, every time",
-    support: "Long-term partnership"
-  }
-};
-```
-
-</td>
-<td width="50%">
-
-### Core Values
-
-🎯 **Problem-First Thinking**  
-Understanding the challenge before proposing solutions
-
-⚡ **Performance Matters**  
-Every millisecond counts in user experience
-
-🔐 **Security by Design**  
-Protection built-in from day one, not added later
-
-💰 **Cost Consciousness**  
-Maximum value with minimal waste
-
-📖 **Clean Code Culture**  
-Readable, documented, and maintainable
-
-🔄 **Agile Mindset**  
-Fast iterations with continuous improvement
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-## 📞 Get In Touch
+## 📞 Contacto / Get In Touch
 
 <div align="center">
 
 <br/>
 
-### Let's Build Something Extraordinary Together
+### 🇪🇸 Construyamos algo extraordinario juntos
+### 🇺🇸 Let's Build Something Extraordinary Together
 
 <br/>
 
 <p align="center">
   <a href="mailto:teaminfinixdev@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" height="40"/>
+    <img src="https://img.shields.io/badge/📧_Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ruben-madrigal-268139190">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TeamInfinixdevcom">
-    <img src="https://img.shields.io/badge/💻_View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Portfolio" height="40"/>
+    <img src="https://img.shields.io/badge/💻_Ver_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" height="40"/>
   </a>
 </p>
 
@@ -932,23 +602,23 @@ Fast iterations with continuous improvement
 <tr>
 <td align="center" width="33%">
 
-#### 📍 Location
+#### 📍 Ubicación / Location
 **Costa Rica 🇨🇷**  
-<sub>Central America</sub>
+<sub>América Central / Central America</sub>
 
 </td>
 <td align="center" width="33%">
 
-#### 🕐 Timezone
+#### 🕐 Zona Horaria / Timezone
 **UTC-6**  
-<sub>Compatible with Americas</sub>
+<sub>Compatible con Américas / Compatible with Americas</sub>
 
 </td>
 <td align="center" width="33%">
 
-#### 🟢 Availability
-**Open for Projects**  
-<sub>Freelance & Consulting</sub>
+#### 🟢 Disponibilidad / Availability
+**Abierto a Proyectos / Open for Projects**  
+<sub>Freelance & Consultoría / Consulting</sub>
 
 </td>
 </tr>
@@ -956,32 +626,32 @@ Fast iterations with continuous improvement
 
 <br/>
 
-### 💼 Project Types
+### 💼 Tipos de Proyecto / Project Types
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web_Applications-0066FF?style=for-the-badge" alt="Web Apps"/>
-  <img src="https://img.shields.io/badge/Enterprise_Systems-00D084?style=for-the-badge" alt="Enterprise"/>
+  <img src="https://img.shields.io/badge/Aplicaciones_Web-0066FF?style=for-the-badge" alt="Web Apps"/>
+  <img src="https://img.shields.io/badge/Sistemas_Empresariales-00D084?style=for-the-badge" alt="Enterprise"/>
   <img src="https://img.shields.io/badge/CRM_/_ERP-F85D7F?style=for-the-badge" alt="CRM ERP"/>
   <img src="https://img.shields.io/badge/APIs-FFCA28?style=for-the-badge" alt="APIs"/>
-  <img src="https://img.shields.io/badge/Cloud_Migration-430098?style=for-the-badge" alt="Cloud"/>
-  <img src="https://img.shields.io/badge/Technical_Consulting-339933?style=for-the-badge" alt="Consulting"/>
+  <img src="https://img.shields.io/badge/Migración_Cloud-430098?style=for-the-badge" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/Consultoría_Técnica-339933?style=for-the-badge" alt="Consulting"/>
 </p>
 
 <br/>
 
-### 💬 What to Expect
+### 💬 Qué esperar / What to Expect
 
-✅ **Fast Response** — Initial reply within 24 hours  
-✅ **Free Consultation** — 30-minute discovery call  
-✅ **Transparent Pricing** — Clear quotes with no hidden fees  
-✅ **Agile Process** — Regular updates and iterations  
-✅ **Post-Launch Support** — We're here after deployment  
+✅ **Respuesta rápida / Fast Response** — Respuesta inicial en 24 h / Initial reply within 24 hours  
+✅ **Consulta gratuita / Free Consultation** — Llamada de descubrimiento de 30 min / 30-minute discovery call  
+✅ **Precios transparentes / Transparent Pricing** — Cotizaciones claras sin cargos ocultos / Clear quotes with no hidden fees  
+✅ **Proceso ágil / Agile Process** — Actualizaciones regulares e iteraciones / Regular updates and iterations  
+✅ **Soporte post-lanzamiento / Post-Launch Support** — Estamos aquí después del despliegue / We're here after deployment  
 
 <br/>
 
 <p align="center">
   <a href="mailto:teaminfinixdev@gmail.com">
-    <img src="https://img.shields.io/badge/📬_Start_Your_Project_Now-FF6B6B?style=for-the-badge&labelColor=000000" alt="Start Project" height="50"/>
+    <img src="https://img.shields.io/badge/📬_Inicia_tu_Proyecto_/_Start_Your_Project-FF6B6B?style=for-the-badge&labelColor=000000" alt="Start Project" height="50"/>
   </a>
 </p>
 
@@ -1001,14 +671,16 @@ Fast iterations with continuous improvement
 
 <br/>
 
-**Developed with 💙 by Infinix Dev**  
+**Desarrollado con 💙 por / Developed with 💙 by Infinix Dev**  
 *By RYM Graphic Design and Web*
 
 <br/>
 
-⭐️ **From** [Costa Rica](https://www.google.com/maps/place/Costa+Rica) **with love** 🇨🇷
+⭐️ **Desde / From** [Costa Rica](https://www.google.com/maps/place/Costa+Rica) **con amor / with love** 🇨🇷
 
-<sub>© 2024 Infinix Dev. All rights reserved.</sub>
+<sub>© 2025 Infinix Dev. Todos los derechos reservados / All rights reserved.</sub>
+
+<sub>🔄 Última actualización / Last updated: April 2025</sub>
 
 </div>
 
