@@ -15,9 +15,6 @@
   <a href="https://github.com/TeamInfinixdevcom">
     <img src="https://img.shields.io/badge/💻_GitHub-TeamInfinixdevcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://wa.me/50685888800">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-8588--8800-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
   <a href="https://www.linkedin.com/in/ruben-madrigal-268139190">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Ruben_Madrigal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -136,92 +133,6 @@ Herramientas / Tools
 
 
 
-
-</div>
-
-<br/>
-
-🚀 What We Build / Qué Construimos
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🏢 Enterprise
-
-CRM • ERP • HR
-Business Management
-
-</td>
-<td align="center" width="25%">
-
-☁️ Cloud
-
-Firebase • Firestore
-Serverless Architecture
-
-</td>
-<td align="center" width="25%">
-
-🤖 Automation
-
-Process Automation
-Document Processing
-
-</td>
-<td align="center" width="25%">
-
-📊 Intelligence
-
-Analytics • Dashboards
-Business Intelligence
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-🧠 Engineering Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<h3>⚡ ~99%</h3>
-<strong>Cost Reduction</strong><br/>
-<sub>Infrastructure optimization</sub>
-
-</td>
-<td align="center" width="25%">
-
-<h3>🔥 Real-Time</h3>
-<strong>Systems</strong><br/>
-<sub>Firebase-powered applications</sub>
-
-</td>
-<td align="center" width="25%">
-
-<h3>📄 Intelligent</h3>
-<strong>Document Processing</strong><br/>
-<sub>PDF extraction & validation</sub>
-
-</td>
-<td align="center" width="25%">
-
-<h3>🔐 Enterprise</h3>
-<strong>Access Control</strong><br/>
-<sub>Roles, security & auditing</sub>
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -484,53 +395,6 @@ Funcionalidades / Features:
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-💎 Crystal Reports
-
-
-
-
-
-Plataforma de gestión de viáticos y gastos de viaje / Travel expense & allowance management platform — automates invoice processing, expense registration, trip association, duplicate validation, and reporting.
-
-<div align="center">
-<img src="https://i.imgur.com/SBrSENc.png" alt="Crystal Reports - Inicio" style="max-width:92%;margin:10px 0;border-radius:12px;">
-</div>
-
-Flujo principal / Core Workflow:
-
-📄 PDF → 🤖 Extracción → 🔍 Validación → ✈️ Viaje → 💰 Viático → 📊 Reportes
-
-Funcionalidades / Features:
-
-🧾 Registro de gastos mediante facturas PDF
-
-🤖 Extracción automática de fecha, hora y monto
-
-✈️ Asociación de gastos a viajes
-
-🔒 Detección y prevención de duplicados
-
-📊 Dashboard y reportes para control de gastos
-
-<details>
-<summary>📸 Ver más capturas / View More Screenshots</summary>
-<br/>
-<div align="center">
-
-<img src="https://i.imgur.com/wfqA44I.png" alt="Crystal Reports - Hub Principal" style="max-width:90%;margin-bottom:10px;border-radius:12px;">
-<img src="https://i.imgur.com/g2ROxtz.png" alt="Crystal Reports - Perfil" style="max-width:90%;margin-bottom:10px;border-radius:12px;">
-<img src="https://i.imgur.com/S7iXM4C.png" alt="Crystal Reports - Reportes" style="max-width:90%;border-radius:12px;">
-
-</div>
-</details>
-
-🔗 Proyecto en desarrollo / Project in development.
-
-</td>
-</tr>
 </table>
 
 <br/>
@@ -631,29 +495,6 @@ Stack: Python • HTML • CSS
 Casos de uso / Use cases: Investigación de mercado • Monitoreo de competidores • Agregación de datos
 
 
-
-<br/>
-
-🏗️ Solution Architecture
-
-<div align="center">
-
-                         INFINIX DEV
-                              │
-              ┌───────────────┼───────────────┐
-              ↓               ↓               ↓
-          FRONTEND         BACKEND           CLOUD
-        React / Angular   Node / Python   Firebase / PostgreSQL
-              │               │               │
-              └───────────────┼───────────────┘
-                              ↓
-                    BUSINESS SOLUTIONS
-                              │
-          ┌──────────┬────────┼────────┬──────────┐
-          ↓          ↓        ↓        ↓          ↓
-         CRM         HR    Reports  Automation  Analytics
-
-</div>
 
 <br/>
 
@@ -780,10 +621,6 @@ Ver actividad completa / View Full Activity
     <img src="https://img.shields.io/badge/📧_Enviar_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/50685888800">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-8588--8800-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ruben-madrigal-268139190">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
@@ -835,9 +672,6 @@ Abierto a Proyectos / Open for Projects
   <img src="https://img.shields.io/badge/APIs-FFCA28?style=for-the-badge" alt="APIs"/>
   <img src="https://img.shields.io/badge/Migración_Cloud-430098?style=for-the-badge" alt="Cloud"/>
   <img src="https://img.shields.io/badge/Consultoría_Técnica-339933?style=for-the-badge" alt="Consulting"/>
-  <a href="https://wa.me/50685888800">
-    <img src="https://img.shields.io/badge/WhatsApp-8588--8800-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
 </p>
 
 <br/>
@@ -879,9 +713,9 @@ By RYM Graphic Design and Web
 
 ⭐️ Desde / From Costa Rica con amor / with love 🇨🇷
 
-<sub>© 2026 Infinix Dev. Todos los derechos reservados / All rights reserved.</sub>
+<sub>© 2025 Infinix Dev. Todos los derechos reservados / All rights reserved.</sub>
 
-<sub>🔄 Última actualización / Last updated: August 2026</sub>
+<sub>🔄 Última actualización / Last updated: April 2025</sub>
 
 </div>
 
