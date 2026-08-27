@@ -184,6 +184,88 @@ const infinixDev = {
 
 <br/>
 
+### 💎 Gestión de Gastos & Viáticos / Expense Management
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💎 Crystal Reports
+
+![PWA](https://img.shields.io/badge/PWA-5C2D91?style=flat-square&logo=pwa&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PDF](https://img.shields.io/badge/PDF_Automation-EA4335?style=flat-square)
+
+**Plataforma de gestión de viáticos y gastos de viaje** / **Travel expense & allowance management platform** — digital workflow for invoice-based expense registration, trip association, validation, and reporting.
+
+<div align="center">
+
+![Crystal Reports - Inicio](https://i.imgur.com/SBrSENc.png)
+
+</div>
+
+**Funcionalidades / Features:**
+- 🧾 Registro de gastos mediante facturas PDF / Expense registration from PDF invoices
+- 🤖 Extracción automática de fecha, hora y monto / Automatic date, time & amount extraction
+- ✈️ Asociación de gastos a viajes y viáticos / Expense-to-trip & allowance association
+- 🔒 Detección y prevención de facturas duplicadas / Duplicate invoice detection
+- 📊 Reportes para análisis y control de gastos / Expense analysis & reporting
+
+<details>
+<summary>📸 Ver más capturas / View More Screenshots</summary>
+<br/>
+<div align="center">
+
+![Hub Principal](https://i.imgur.com/wfqA44I.png)
+![Perfil](https://i.imgur.com/g2ROxtz.png)
+![Reportes](https://i.imgur.com/S7iXM4C.png)
+
+</div>
+</details>
+
+🔗 *Proyecto en desarrollo / Project in development.*
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Flujo Automatizado / Automated Workflow
+
+**Del documento al reporte, sin trabajo manual innecesario.** / **From document to report with an automated workflow.**
+
+<br/>
+
+| Etapa / Stage | Proceso / Process |
+|---|---|
+| 📄 **01** | Carga de factura PDF / PDF invoice upload |
+| 🤖 **02** | Extracción de datos / Data extraction |
+| 🔍 **03** | Validación de información / Data validation |
+| 🔒 **04** | Detección de duplicados / Duplicate detection |
+| ✈️ **05** | Asociación al viaje / Trip association |
+| 💰 **06** | Actualización de viáticos / Allowance update |
+| 📊 **07** | Generación de reportes / Report generation |
+
+<br/>
+
+#### 🧠 Inteligencia del Sistema / System Intelligence
+
+- **Procesamiento documental** — convierte información de facturas en datos utilizables.
+- **Control de duplicados** — evita registrar dos veces una misma factura.
+- **Trazabilidad** — mantiene la relación entre factura, gasto y viaje.
+- **Consolidación** — centraliza los gastos para facilitar el control financiero.
+- **Reporting** — transforma los movimientos registrados en información para análisis.
+
+<br/>
+
+#### 🛠️ Stack & Architecture
+
+`PWA` • `Firebase` • `PDF Processing` • `Cloud Architecture` • `Reporting`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### 📊 Ventas & CRM / Sales & CRM Solutions
 
 <table>
